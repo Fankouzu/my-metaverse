@@ -1,0 +1,1 @@
+npx hardhat flatten contracts/MyMetaVerse.sol > flattened/MyMetaVerse.sol

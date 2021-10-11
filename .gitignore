@@ -1,0 +1,10 @@
+build
+node_modules
+.idea/*
+.vscode/
+typechain/
+artifacts/
+cache/
+flattened
+.env.development
+.env
